@@ -1,0 +1,5 @@
+{
+"port": 5000,
+"jwtSecret": "Misha Skopenko 15071990", 
+"mongoUri": "mongodb+srv://misha:misha123@cluster0-wprwv.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
